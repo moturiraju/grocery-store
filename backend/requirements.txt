@@ -3,3 +3,4 @@ pydantic-core
 fastapi
 uvicorn
 sqlalchemy
+email-validator
