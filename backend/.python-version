@@ -1,0 +1,4 @@
+cat .python-version  # should output: 3.12.9
+git add .python-version
+git commit -m "pin python to 3.12.9"
+git push
