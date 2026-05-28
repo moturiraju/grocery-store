@@ -7,3 +7,4 @@ passlib[bcrypt]
 sqlalchemy
 email-validator
 psycopg2-binary
+bcrypt==4.0.1
