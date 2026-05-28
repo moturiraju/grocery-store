@@ -2,5 +2,6 @@ pydantic
 pydantic-core
 fastapi
 uvicorn
+python-jose[cryptography]
 sqlalchemy
 email-validator
