@@ -2,3 +2,4 @@ pydantic
 pydantic-core
 fastapi
 uvicorn
+sqlalchemy
